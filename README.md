@@ -1,3 +1,3 @@
 # hello.txt
 hello world
-first cimmit
+first commit
